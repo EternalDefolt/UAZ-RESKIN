@@ -1,0 +1,13 @@
+GenericEntity : "{7FCF4223BB80526A}Prefabs/Vehicles/Wheeled/vaz_2109/VehParts/Fender_L.et" {
+ ID "5AF0117A0FE0DE11"
+ components {
+  MeshObject "{689EF295782C4E06}" {
+   Materials {
+    MaterialAssignClass "{5AF0117A0FE0DE21}" {
+     SourceMaterial "1st"
+     AssignedMaterial "{57BF47173532DCB1}Assets/Vehicles/Wheeled/vaz_2109_car/Data/vaz_2109Body_01_POLIZIA.emat"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,20 @@
+GenericEntity : "{A507D9AE39652BD6}Prefabs/Vehicles/Core/Vehicle_Part_Base.et" {
+ ID "5AFDECA1F0FCE012"
+ components {
+  MeshObject "{4B42E716914465B9}" {
+   Object "{5EEE0B2BAE263740}Assets/Vehicles/Wheeled/vaz_2109_car/Decals/vaz_decal_quad.xob"
+   Materials {
+    MaterialAssignClass "{5AFDECA1F0FCE032}" {
+     SourceMaterial "decal"
+     AssignedMaterial "{112BD1EA9D549AC3}TEXTURES/Decal_KOLGUEV.emat"
+    }
+   }
+   LODFactors {
+    1 1
+   }
+  }
+  RigidBody "{4B42E71692C2FB79}" {
+   Enabled 0
+  }
+ }
+}

@@ -1,0 +1,71 @@
+MatPBRMulti {
+ Color 0.624 0.624 0.624 1
+ AOScale 0.9
+ MudOpacity 0.982
+ MudColor 0.053 0.025 0.018 1
+ MudRoughness 0.89
+ MudMetalness 1.621
+ MudDetNormal 1.081
+ MudBCRMap "{15A4D0147C0F3804}Assets/_SharedData/Plaster/ST_Plaster_Damaged_01_BCR.edds"
+ MudNMOMap "{2D7C6B86A5786A9A}Assets/_SharedData/Plaster/ST_Plaster_Damaged_01_NMO.edds"
+ MudMaskMap "{816ABEBED1A52FF3}Assets/_SharedData/DetailMask/ST_Mud_01_Mask.edds"
+ MudUVTransform MatUVTransform "{69269D2E0EF8A83C}" {
+  TilingU 35
+  TilingV 35
+ }
+ DirtOpacity 0.89
+ DirtLayerSharpness 0.12
+ DirtColor 0.1 0.091 0.076 1
+ DirtRoughness 1
+ DirtBCRMap "{366028E90066FC57}Assets/_SharedData/Dirt/ST_Dirt_Sand_BCR.edds"
+ DirtMaskMap "{2563D86FF583B1EF}Assets/_SharedData/DetailMask/ST_Metal_Rust_01_Mask1.edds"
+ DirtUVTransform MatUVTransform "{69269D5BB33E597E}" {
+  TilingU 35
+  TilingV 35
+ }
+ GlobalMCRMap "{92ACB2341F2AF47E}Prefabs/Vehicles/Wheeled/vaz_2109/Data__1st_BCR.edds"
+ MCRBrightness 0.188
+ MaskMap "{31E5E6C50128BC69}Assets/Vehicles/Wheeled/vaz_2109_car/Data/1_id.edds"
+ VFXMap "{D5DA0D94274477C8}Assets/Vehicles/Wheeled/vaz_2109_car/Data/body_VFX.1011.edds"
+ GlobalAOMap "{D5FC05060EFE70B8}Assets/Vehicles/Wheeled/vaz_2109_car/Data/body_ambient_occlusion.1011.edds"
+ GlobalNMOMap "{C1A05E681413A3DC}Assets/Vehicles/Wheeled/vaz_2109_car/Data/body_NMO.1011.edds"
+ GlobalNMOUVTransform MatUVTransform "{68D3285EE4130DED}" {
+ }
+ Enabled_4 1
+ Color_4 0.065 0.065 0.065 1
+ BCR_4 "{60F2D4EF9A0D5852}Assets/Vehicles/Wheeled/vaz_2109_car/Data/tile_textues/rubber_interior/texture_plane_BCR..edds"
+ NMO_4 "{806803BC40F891DD}Assets/Vehicles/Wheeled/vaz_2109_car/Data/tile_textues/rubber_interior/texture_plane_NMO..edds"
+ UVTransform_4 MatUVTransform "{688EED2CD11E02D5}" {
+  TilingU 15
+  TilingV 15
+ }
+ Roughness_4 1.8
+ Enabled_3 1
+ Color_3 0.195 0.195 0.195 1
+ BCR_3 "{36F6E55C068EAFFB}Assets/Vehicles/Wheeled/vaz_2109_car/Data/tile_textues/bumper_plastick/texture_plane_BCR..edds"
+ NMO_3 "{D66C320FDC7B6674}Assets/Vehicles/Wheeled/vaz_2109_car/Data/tile_textues/bumper_plastick/texture_plane_NMO..edds"
+ UVTransform_3 MatUVTransform "{688EED2B8F4A42A1}" {
+  TilingU 15
+  TilingV 15
+ }
+ DetNormal_3 0.25
+ Enabled_2 1
+ Color_2 0.068 0.068 0.068 1
+ NMO_2 "{C3052D4622B5AC96}Assets/Vehicles/Wheeled/vaz_2109_car/Data/tile_textues/car_paint/texture_plane_NMO..edds"
+ UVTransform_2 MatUVTransform "{688E91414141F7D7}" {
+  TilingU 16
+  TilingV 16
+ }
+ DetNormal_2 4
+ Roughness_2 0.8
+ Color_1 1 1 1 1
+ BCR_1 "{1BBC2728F99968AF}Assets/Vehicles/Wheeled/vaz_2109_car/Data/tile_textues/car_paint/texture_plane_BCR. - Copy.edds"
+ NMO_1 "{352399D503C747B1}Assets/Vehicles/Wheeled/vaz_2109_car/Data/tile_textues/car_paint/texture_plane_NMO. - Copy.edds"
+ UVTransform_1 MatUVTransform "{688E9179240CCB1A}" {
+  TilingU 8
+  TilingV 8
+ }
+ DetNormal_1 0.3
+ Roughness_1 0.4
+ Metalness_1 0.1
+}

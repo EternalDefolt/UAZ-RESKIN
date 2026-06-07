@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{1A3A98E16F54BEC3}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_GOD_HELP_ME.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,5 @@
+resourceDatabase.rdb
+*.bak
+*.backup
+*~
+Thumbs.db

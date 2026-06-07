@@ -1,0 +1,17 @@
+GenericEntity {
+ ID "5A1C0DEC0A11B001"
+ components {
+  MeshObject "{5A1C0DEC0A11B002}" {
+   Object "{5030DE81C1050DF5}Assets/Vehicles/Wheeled/UAZ469/VehParts/Logos/UAZ469_FIA_CoatOfArms.xob"
+   Materials {
+    MaterialAssignClass "{5A1C0DEC0A11B003}" {
+     SourceMaterial "FIA_CoatOfArms_66F803693C8814A2"
+     AssignedMaterial "{112BD1EA9D549AC3}TEXTURES/Decal_KOLGUEV.emat"
+    }
+   }
+   LODFactors {
+    1 1
+   }
+  }
+ }
+}

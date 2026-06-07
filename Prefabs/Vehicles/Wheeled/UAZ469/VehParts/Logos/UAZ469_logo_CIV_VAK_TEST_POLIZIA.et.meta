@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{C554800BF1A172E8}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Logos/UAZ469_logo_CIV_VAK_TEST_POLIZIA.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,21 @@
+GenericEntity : "{80A5255444A78DE1}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Doors/UAZ469_door_R02_bottom.et" {
+ ID "4B42E71698F5739C"
+ components {
+  MeshObject "{4B42E716914465B9}" {
+   Materials {
+    MaterialAssignClass "{6972F6BBB0B43ED1}" {
+     SourceMaterial "UAZ469_Body"
+     AssignedMaterial "{8A0720382C399162}Assets/Vehicles/Wheeled/UAZ469/Data/UAZ469_Body_POLIZIA.emat"
+    }
+   }
+  }
+  SlotManagerComponent "{5AD4FD050A086870}" {
+   Slots {
+    RegisteringComponentSlotInfo DoorTop {
+     Prefab "{A243DE1B04BBEC01}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Doors/UAZ469_door_R02_top4.et"
+     RegisterDamage 1
+    }
+   }
+  }
+ }
+}

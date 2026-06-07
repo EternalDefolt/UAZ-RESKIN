@@ -1,0 +1,15 @@
+MatPBRDecal {
+ Color 1 1 1 1
+ SortBias 1
+ DisablePriorityProbes 1
+ AlphaTest 0.1
+ AlphaMul 0.913
+ BlendMode AlphaBlend
+ RoughnessScale 2
+ MetalnessScale 0
+ BCRMap "{3CE3ED72A96A8A10}Assets/_SharedData/Decals/CivVehicles_Logos_01_BCR.edds"
+ OpacityMap "{8F9FF8B5461CA62D}Assets/_SharedData/Decals/CivVehicles_Logos_01_A.edds"
+ GBufferNormal 1
+ NormalCombinePower 0.5
+ GBufferAO 1
+}

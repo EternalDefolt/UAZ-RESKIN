@@ -1,0 +1,39 @@
+MetaFileClass {
+ Name "{5EEE0B2BAE263740}Assets/Vehicles/Wheeled/vaz_2109_car/Decals/vaz_decal_quad.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{6988F3D4308E3F3A}" {
+     SourceMaterial "decal"
+     AssignedMaterial "{0255EA4DAE093AAA}Assets/Vehicles/Wheeled/vaz_2109_car/Decals/Data/decal.emat"
+    }
+   }
+   MeshParams {
+    MeshParam vaz_decal_quad {
+    }
+   }
+   Common TXOCommonClass "{6988F3D43175D37A}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{6988F3D43175DD46}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{6988F3D43175DCD0}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{6988F3D43175DC00}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{6988F3D43175DC4F}" : "{F62AA8E7B8EA9D26}Configs/System/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{6988F3D43175DFB7}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

@@ -1,0 +1,9 @@
+MatPBRBasic {
+ BlendMode AlphaBlend
+ AlphaMul 1
+ MetalnessScale 0
+ Color 1 1 1 1
+ Specular 0.02 0.02 0.02 1
+ BCRMap "{0000000000000000}TEXTURES/Decal_STRIPE_BLUE_BCR.edds"
+ OpacityMap "{0000000000000000}TEXTURES/Decal_STRIPE_BLUE_A.edds"
+}

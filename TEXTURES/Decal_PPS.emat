@@ -1,0 +1,9 @@
+MatPBRBasic {
+ BlendMode AlphaBlend
+ AlphaMul 1
+ MetalnessScale 0
+ Color 1 1 1 1
+ Specular 0.02 0.02 0.02 1
+ BCRMap "{8975311ACB6808C6}TEXTURES/Decal_PPS_BCR.edds"
+ OpacityMap "{1F499C69021EA024}TEXTURES/Decal_PPS_A.edds"
+}

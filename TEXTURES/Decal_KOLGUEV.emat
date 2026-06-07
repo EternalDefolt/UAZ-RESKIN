@@ -1,0 +1,15 @@
+MatPBRDecal {
+ Color 1 1 1 1
+ SortBias 1
+ DisablePriorityProbes 1
+ AlphaTest 0.1
+ AlphaMul 1
+ BlendMode AlphaBlend
+ RoughnessScale 2
+ MetalnessScale 0
+ BCRMap "{38B86F195D1BF09D}TEXTURES/Decal_KOLGUEV_BCR.edds"
+ OpacityMap "{6B47782CC1317F4A}TEXTURES/Decal_KOLGUEV_A.edds"
+ GBufferNormal 1
+ NormalCombinePower 0.5
+ GBufferAO 1
+}

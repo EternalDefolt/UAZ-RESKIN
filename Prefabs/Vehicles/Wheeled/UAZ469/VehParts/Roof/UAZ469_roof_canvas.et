@@ -1,0 +1,65 @@
+GenericEntity : "{25895C54FE021EE6}Prefabs/Vehicles/Core/Vehicle_Canvas_Base.et" {
+ ID "4B42E71698F5739C"
+ components {
+  MeshObject "{4B42E716914465B9}" {
+   Object "{407536B3D8A85E53}Assets/Vehicles/Wheeled/UAZ469/VehParts/UAZ469_roof_canvas.xob"
+  }
+  VehicleLightPortalComponent "{6972F6B28A731227}" {
+   PortalInfoList {
+    AnimVehicleLightPortal "{6972F6B28A73127F}" {
+     ContextName "Door_L01"
+     PortalPositionInfo PointInfo "{6972F6B28A73127C}" {
+      Offset -0.9625 1.25 0.26
+     }
+    }
+    AnimVehicleLightPortal "{6972F6B28A731263}" {
+     ContextName "Door_R01"
+     PortalPositionInfo PointInfo "{6972F6B28A731261}" {
+      Offset 0.9625 1.25 0.26
+     }
+     AnimDoorIndex 1
+    }
+    AnimVehicleLightPortal "{6972F6B28A731260}" {
+     ContextName "Door_L02"
+     PortalPositionInfo PointInfo "{6972F6B28A731267}" {
+      Offset -0.92 1.4 -0.45
+     }
+     AnimDoorIndex 2
+    }
+    AnimVehicleLightPortal "{6972F6B28A731265}" {
+     ContextName "Door_R02"
+     PortalPositionInfo PointInfo "{6972F6B28A731264}" {
+      Offset 0.92 1.4 -0.45
+     }
+     AnimDoorIndex 3
+    }
+    VehicleLightPortal "{6972F6B28A73126B}" {
+     ContextName "Window_F"
+     PortalPositionInfo PointInfo "{6972F6B28A73126A}" {
+      Offset 0 1.7 0.65
+     }
+    }
+    VehicleLightPortal "{6972F6B28A731269}" {
+     ContextName "Window_Rear"
+     PortalPositionInfo PointInfo "{6972F6B28A731268}" {
+      Offset 0 1.7 -1.7
+     }
+    }
+   }
+  }
+  SlotManagerComponent "{6972F6B28A731D87}" {
+   Slots {
+    RegisteringComponentSlotInfo Window_rear {
+     Prefab "{BC9BCE79086726B6}Prefabs/Vehicles/Wheeled/UAZ469/dst/UAZ469_window_back.et"
+     RegisterDamage 1
+    }
+   }
+  }
+ }
+ {
+  GameEnvironmentProbeEntity : "{5B5408B8D1284397}Prefabs/Vehicles/Wheeled/UAZ469/Probes/UAZ469_Probe_roof_canvas.et" {
+   ID "6972F6B28A731230"
+   coords 0 1.295 -0.474
+  }
+ }
+}

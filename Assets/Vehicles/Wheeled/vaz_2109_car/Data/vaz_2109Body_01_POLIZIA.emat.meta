@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{57BF47173532DCB1}Assets/Vehicles/Wheeled/vaz_2109_car/Data/vaz_2109Body_01_POLIZIA.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

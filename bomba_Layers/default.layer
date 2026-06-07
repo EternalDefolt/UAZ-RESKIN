@@ -1,0 +1,9 @@
+Vehicle UAZ469_GOD_HELP_ME1 : "{1A3A98E16F54BEC3}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_GOD_HELP_ME.et" {
+ coords 617.173 39 2578.685
+}
+Vehicle UAZ452_POLIZIA1 : "{244D17CADD9BDC38}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_POLIZIA.et" {
+ coords 613.126 39.01 2579.086
+}
+Vehicle vaz_2109_base_POLIZIA1 : "{F4B1DCEA68589F31}Prefabs/Vehicles/Wheeled/vaz_2109/vaz_2109_base_POLIZIA.et" {
+ coords 620.604 39.01 2578.22
+}
