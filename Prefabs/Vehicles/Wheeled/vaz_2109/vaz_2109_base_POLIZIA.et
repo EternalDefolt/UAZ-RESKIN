@@ -1934,23 +1934,23 @@ Vehicle : "{1F9BB80C3EC3C891}Prefabs/Vehicles/Core/Wheeled_Car_Base.et" {
      Prefab "{BA0014C1F45843D7}Prefabs/Vehicles/Wheeled/S105/VehParts/S105_shadow.et"
     }
     EntitySlotInfo decal_polizia_R {
-     Offset 0.8028 0.7852 0.347
-     Angles -14.5246 -90.0329 0
+     Offset 0.7949 0.7761 1.0955
+     Angles -14.4564 -95.708 1.4211
      Prefab "{5AFDECA1F0FCE001}Prefabs/Vehicles/Wheeled/vaz_2109/VehParts/Decals/vaz_decal_POLICE.et"
     }
     EntitySlotInfo decal_polizia_L {
-     Offset -0.805 0.7823 0.372
-     Angles -12.2819 90.3057 0
+     Offset -0.8007 0.7767 1.1004
+     Angles -12.2772 91.9173 -0.3427
      Prefab "{5AFDECA1F0FCE001}Prefabs/Vehicles/Wheeled/vaz_2109/VehParts/Decals/vaz_decal_POLICE.et"
     }
     EntitySlotInfo decal_kolguev_R {
-     Offset 0.7988 0.7934 -0.5951
-     Angles -14.3171 -90 0
+     Offset 0.7584 0.791 -1.5205
+     Angles -14.2592 -84.7371 -0.2738
      Prefab "{5AFDECA1F0FCE002}Prefabs/Vehicles/Wheeled/vaz_2109/VehParts/Decals/vaz_decal_KOLGUEV.et"
     }
     EntitySlotInfo decal_kolguev_L {
-     Offset -0.8026 0.7889 -0.5969
-     Angles -13.4516 89.7856 0
+     Offset -0.7607 0.7861 -1.5277
+     Angles -13.4115 85.281 0.3502
      Prefab "{5AFDECA1F0FCE002}Prefabs/Vehicles/Wheeled/vaz_2109/VehParts/Decals/vaz_decal_KOLGUEV.et"
     }
     RegisteringComponentSlotInfo LicensePlate_F {
